@@ -41,6 +41,12 @@ Primary Color:
   box-sizing: border-box;
 }
 
+html {
+  /* Percentage of user's font-size setting 
+      10px / 16px = 0.625 * 100 = 62.5%*/
+  font-size: 62.5%;
+}
+
 body {
   font-family: sans-serif;
   line-height: 1;
