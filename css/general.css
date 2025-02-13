@@ -32,6 +32,7 @@ Primary Color: #e67e22
 
 --- 06 BORDER-RADIUS
 Default: 9px
+Medium: 11px
 
 --- 07 WHITESPACE
 
@@ -171,4 +172,8 @@ body {
 /* Helper Class: Add !important to your declaration block when you plan using a class over and over again. This will make the class of high priority and it won't be overwritten by another declearation  */
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
