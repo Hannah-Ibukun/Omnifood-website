@@ -169,11 +169,36 @@ body {
   background-color: #fdf2e9;
 }
 
+.link:link,
+.link:visited {
+  color: #e67e22;
+  text-decoration: none;
+  border-bottom: 1px solid currentcolor;
+  padding-bottom: 2px;
+  transition: all 0.3s;
+}
+
+.link:hover,
+.link:active {
+  color: #cf711f;
+  border-bottom: 1px solid transparent;
+}
+
+/* HELPER/SETTINGS CLASSES */
+
 /* Helper Class: Add !important to your declaration block when you plan using a class over and over again. This will make the class of high priority and it won't be overwritten by another declearation  */
 .margin-right-sm {
   margin-right: 1.6rem !important;
 }
 
-strong {
+.margin-bottom-md {
+  margin-bottom: 4.8rem !important;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.strong {
   font-weight: 500;
 }
