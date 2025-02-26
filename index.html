@@ -583,12 +583,28 @@
               </p>
 
               <form class="cta-form" action="#">
-                <label>Full Name</label>
-                <input type="text" placeholder="John Smith"/>
+                <div>
+                  <label for="full-name">Full Name</label>
+                  <input id="full-name" type="text" placeholder="John Smith" required/>
+                </div>
 
-                <label>Full Name</label>
-                <input type="email"/>
-                <button class="btn">Sign up now</button>
+                <div>
+                  <label for="email">Email address</label>
+                  <input id="email" type="email" placeholder="me@examole.com" required/>
+                </div>
+
+                <div>
+                  <label for="select-where">Where did you hear from us?</label>
+                  <select id="select-where" required>
+                    <option value="">Please choose one option:</option>
+                    <option value="friends">Friends and Family</option>
+                    <option value="youtube">YouTube video</option>
+                    <option value="podcast">Podcast</option>
+                    <option value="ad">Facebook ad</option>
+                    <option value="Others">Others</option>
+                  </select>
+                </div>
+                <button class="btn btn--form">Sign up now</button>
 
               </form>
             </div>
