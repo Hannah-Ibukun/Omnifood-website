@@ -13,16 +13,16 @@ Ominifood is a technology-driven company focused on enhancing consumer well-bein
 - Fixed Flexbox gap issue in Safari
  
 ## Technologies Used
-HTML: Structuring the website content
-CSS: Styling and layout
-JavaScript: Enhancing interactivity and navigation
+- **HTML:** Structuring the website content
+- **CSS:** Styling and layout
+- **JavaScript:** Enhancing interactivity and navigation
 
 ## Installation & Usage
 - Clone the repository:
-bash: git clone https://github.com/your-username/ominifood-website.git
+  - **bash:** git clone https://github.com/your-username/ominifood-website.git
 
 - Navigate to the project directory:
-bash: cd ominifood-website
+  - **bash:** cd ominifood-website
 
 - Open index.html in a browser to view the website.
   
