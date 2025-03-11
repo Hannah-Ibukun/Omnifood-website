@@ -1,5 +1,29 @@
 # Omnifood-website
 
-About Omnifood
+##Description
+Ominifood is a technology-driven company focused on enhancing consumer well-being through a healthy diet. Our AI-powered platform helps users create personalized weekly meal plans based on their dietary preferences. We also partner with restaurants and cooking partners to prepare and deliver these meals in select cities, all packaged within a convenient monthly subscription.
 
-We are a technology company first, but with a major focus on consumer well-being through a healthy diet. Most people are very busy with their jobs, family and friends, and other important activities, which doesn't leave much time for cooking. This might lead to a poor diet and lasting health consequences. We want to solve this problem by using an AI-centric approach. Users can use our app to select their diet and foods they like and dislike, and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
+##Features
+- Fully responsive design for all screen sizes
+- Smooth scrolling for better user experience
+- Sticky navigation bar for easy access
+- Mobile navigation menu with interactive scripts
+- Fixed Flexbox gap issue in Safari
+  
+##Technologies Used
+HTML: Structuring the website content
+CSS: Styling and layout
+JavaScript: Enhancing interactivity and navigation
+
+##Installation & Usage
+- Clone the repository:
+bash: git clone https://github.com/your-username/ominifood-website.git
+
+- Navigate to the project directory:
+bash: cd ominifood-website
+
+- Open index.html in a browser to view the website.
+  
+###Contributor
+[Hannah Akinnola] - Sole Developer
+
