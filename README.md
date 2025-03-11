@@ -27,5 +27,5 @@ bash: cd ominifood-website
 - Open index.html in a browser to view the website.
   
 ### Contributor
-[Hannah Akinnola] - Sole Developer
+Hannah Akinnola - _Sole Developer_
 
